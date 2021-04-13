@@ -1,5 +1,6 @@
 
 > Open this page at [https://bigqubot.github.io/pxt-triodecar/](https://bigqubot.github.io/pxt-triodecar/)
+> this repo is at fuhu-qc
 
 ## Usage
 
